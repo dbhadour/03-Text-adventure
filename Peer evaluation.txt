@@ -1,0 +1,38 @@
+Name: Herleen Pannu
+Date: 10/02/19
+Project: Text Adventure 03
+Peer's repository: https://github.com/dbhadour/03-Text-adventure
+
+
+
+What is something you learned by reviewing your peer's project?
+Having a way to know that the computer doesn’t understand your choice of words is helpful. Also being descriptive about what’s going on makes it easier as well to guess as to what we can do.
+ 
+
+What is something you saw in your peer's project that you would like to apply to your own programming projects?
+I would like to apply more creativity as I become more comfortable with python.
+ 
+
+What suggestions would you have for your peer to improve his/her code?
+I think if there barracks part was a bit more descriptive, I might have a clue as to what I need to do next. I have been trying for a bit, but can’t seem to wake up and get off the bed.
+ 
+
+What could have been clearer or better commented?
+The first part of the text adventure. I was stuck there a while.
+ 
+
+Was there anything in the code that was confusing to you? If so, what?
+No.
+ 
+
+Does the repository contain an appropriate LICENSE?
+Yes
+ 
+
+What is something he/she could add to the README.md to make it more descriptive?
+Something more than just “a narrative game project”.
+ 
+
+Pay a compliment to your peer based on the quality of his/her code.
+I enjoyed the creative parts to the game and it was interesting to see the new places and things you could do.
+
